@@ -1,0 +1,7 @@
+[submodule "spack"]
+	path = spack
+	url = https://github.com/spack/spack.git
+	branch = 'tags/v0.20.2'
+	update = checkout
+	shallow = false
+	ignore = all
